@@ -1,48 +1,48 @@
 {
     "html": {
-        "avatarOverlay": "Edit"
+        "avatarOverlay": "Modifier"
     },
     "js": {
         "login": {
             "error": {
-                "invalidValue": "* Invalid Value",
-                "requiredValue": "* Required",
+                "invalidValue": "* Valeur incorrecte",
+                "requiredValue": "* Requis",
                 "userMigrated": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "You've attempted to login with a migrated account. Try again using the account email as the username."
+                    "title": "Erreur lors de la connexion:<br>Invalid Credentials",
+                    "desc": "Vous avez essayé de vous connecter avec un compte migré. Essayez de nouveau en utilisant un email à la place du nom d'utilisateur."
                 },
                 "invalidCredentials": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "The email or password you've entered is incorrect. Please try again."
+                    "title": "Erreur lors de la connexion:<br>Invalid Credentials",
+                    "desc": "L'email ou le mot de passe est incorrect. Merci d'essayer de nouveau."
                 },
                 "rateLimit": {
-                    "title": "Error During Login:<br>Too Many Attempts",
-                    "desc": "There have been too many login attempts with this account recently. Please try again later."
+                    "title": "Erreur lors de la connexion:<br>Too Many Attempts",
+                    "desc": "Il y a eu de trop nembreuse tentatives de connexion avec ce compte récemment. Merci d'essayer à nouveau."
                 },
                 "noInternet": {
-                    "title": "Error During Login:<br>No Internet Connection",
-                    "desc": "You must be connected to the internet in order to login. Please connect and try again."
+                    "title": "Erreur lors de la connexion:<br>No Internet Connection",
+                    "desc": "Vous devez être connecté à internet. Merci d'essayer à nouveau."
                 },
                 "authDown": {
-                    "title": "Error During Login:<br>Authentication Server Offline",
-                    "desc": "Mojang's authentication server is currently offline or unreachable. Please wait a bit and try again. You can check the status of the server on <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
+                    "title": "Erreur lors de la connexion:<br>Authentication Server Offline",
+                    "desc": "Le serveur d'identification de Mojang est indisponible actuellement. Merci de patienter et d'essayer à nouveau. Vous pouvez vérifier l'état des serveurs sur <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
                 },
                 "notPaid": {
-                    "title": "Error During Login:<br>Game Not Purchased",
-                    "desc": "The account you are trying to login with has not purchased a copy of Minecraft.<br>You may purchase a copy on <a href=\"https://minecraft.net/\">Minecraft.net</a>"
+                    "title": "Erreur lors de la connexion:<br>Game Not Purchased",
+                    "desc": "Le compte que vous utilisez n'est pas propriétaire d'une version payante de Minecraft.<br>Vous pouvez acheter une version payante sur <a href=\"https://minecraft.net/\">Minecraft.net</a>"
                 },
                 "unknown": {
-                    "title": "Error During Login:<br>Unknown Error"
+                    "title": "Erreur lors de la connexion:<br>Unknown Error"
                 }
             },
-            "login": "LOGIN",
-            "loggingIn": "LOGGING IN",
-            "success": "SUCCESS",
-            "tryAgain": "Try Again"
+            "login": "Connexion",
+            "loggingIn": "Connexion en cours...",
+            "success": "Réussite",
+            "tryAgain": "Essayez à nouveau"
         },
         "landing": {
             "launch": {
-                "pleaseWait": "Please wait.."
+                "pleaseWait": "Merci de patienter..."
             }
         }
     }
